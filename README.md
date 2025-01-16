@@ -1,6 +1,6 @@
 # RTSP Streaming System
 
-This project enables real-time video streaming using the RTSP protocol. It includes a web server and a client application, allowing for video streams to be shared and controlled over a network.
+This project aims to implement a real-time video streaming application using the RTSP protocol, Gstreamer, Flask and RestApi. It includes a web server and a client application, allowing for video streams to be shared and controlled over a network.
 
 ## Features
 
